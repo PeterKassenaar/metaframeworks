@@ -16,7 +16,7 @@ export const frameworks: Framework[] = [
     title: "Next.js",
     href: "https://nextjs.org",
     body: "The React framework for production. Enabling hybrid static & server rendering, TypeScript support, and more.",
-    logo: "https://assets.vercel.com/image/upload/v1662130559/nextjs/favicon.png"
+    logo: "https:///kassenaar.com/img/next-js.svg"
   },
   {
     title: "Nuxt",
@@ -40,7 +40,7 @@ export const frameworks: Framework[] = [
     title: "Analog.js",
     href: "https://analogjs.org",
     body: "The fullstack meta-framework for Angular. Build blogs, websites, and apps with Angular's best tools.",
-    logo: "https://analogjs.org/img/favicon.png"
+    logo: "https://kassenaar.com/img/analog-js-logo.png"
   },
   {
     title: "Remix",
@@ -52,24 +52,24 @@ export const frameworks: Framework[] = [
     title: "SvelteKit",
     href: "https://svelte.dev/kit",
     body: "Web development, streamlined. The fastest way to build Svelte apps of all sizes, with a wonderful development experience.",
-    logo: "https://kit.svelte.dev/favicon.png"
+    logo: "https://kassenaar.com/img/svelte-logo.png"
   },
   {
     title: "Qwik",
     href: "https://qwik.builder.io",
     body: "New kind of web framework that can deliver instant loading web applications at any size or complexity.",
-    logo: "https://qwik.builder.io/favicon.svg"
+    logo: "https://kassenaar.com/img/qwik-logo.png"
   },
   {
     title: "SolidStart",
     href: "https://solidstart.com",
     body: "The meta-framework for Solid. Everything you need to build your next solid project.",
-    logo: "https://www.solidjs.com/favicon.ico"
+    logo: "https://kassenaar.com/img/solid-logo.png"
   },
   {
     title: "Fresh",
     href: "https://fresh.deno.dev",
     body: "The next-gen web framework for Deno. Just-in-time rendering on the edge with no build step.",
-    logo: "https://fresh.deno.dev/favicon.ico"
+    logo: "https://kassenaar.com/img/deno-fresh.png"
   }
 ];

@@ -1,5 +1,13 @@
 {
-  "name": "@example/basics",
+  "name": "metaframeworks",
+  "author": {
+    "email": "info@kassenaar.com",
+    "name": "Peter Kassenaar"
+  },
+  "repository": {
+    "url": "https://github.com/PeterKassenaar/metaframeworks"
+  },
+  "license": "MIT",
   "type": "module",
   "version": "0.0.1",
   "private": true,

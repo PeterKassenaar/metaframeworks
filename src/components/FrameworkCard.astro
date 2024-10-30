@@ -10,7 +10,7 @@ const { href, title, body, logo } = Astro.props;
 ---
 
 <li class="link-card">
-	<a href={href}>
+	<a href={href} target="_blank">
 		<div class="card-header">
 			<img src={logo} alt={`${title} logo`} class="framework-logo" />
 			<h2>
@@ -64,7 +64,7 @@ const { href, title, body, logo } = Astro.props;
 		color: #4b5563;
 	}
 	.link-card:is(:hover, :focus-within) {
-		background: linear-gradient(120deg, 
+		background: linear-gradient(120deg,
 			rgb(var(--accent-light)) 0%,
 			rgba(var(--accent-light), 0.3) 50%,
 			rgba(var(--accent-light), 0.1) 100%
